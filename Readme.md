@@ -1,6 +1,7 @@
 # Drones API
 
 ## How To use:
+ - postman api: https://api.postman.com/collections/13076974-977597b2-c666-4c65-b64f-613f2f9a2e5c?access_key=PMAT-01H5F3VPB41ZC9A0A1Z5GJ7BAX
  - login using username and password
  - create account
  - some routes are for admin only
