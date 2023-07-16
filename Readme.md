@@ -1,4 +1,8 @@
 # Drones API
+- API hosted on https://flytbase-tgv0.onrender.com
+- Run the live API with the postman collection. 
+- Using JWT
+
 
 ## How To use:
  - API hosted on https://flytbase-tgv0.onrender.com
@@ -15,15 +19,27 @@
 
 ## Required Features:
 **Create backend CRUD services to satisfy the following requirements:**
-- A server to manage user, drone, mission, and site data.
+- A server to manage user, drone, mission, and site data. **Done**
 - The ability for a user to login into the service to fetch his/her relevant
-information.
-- The ability for a user to add/update/delete sites in his/her account.
-- The ability for a user to add/update/delete drones under a site.
-- The ability for a user to add/update/delete missions under a site.
+information. **Done**
+- The ability for a user to add/update/delete sites in his/her account. **Done**
+- The ability for a user to add/update/delete drones under a site. **Done**
+- The ability for a user to add/update/delete missions under a site. **Done**
 - Ability to request the server to retrieve all missions belonging to a
-particular site.
+particular site. **Done**
 - Ability to request the server to retrieve all drones belonging to a particular
-site.
-- The ability for a user to shift drones from one site to another.
+site. **Done**
+- The ability for a user to shift drones from one site to another. **Done**
+
+
+## Bonus Statement:
+- The ability for a user to add/update/delete custom categories in his/her
+account. **Done**
+- The ability for a user to associate categories to missions (one category
+can be added to multiple missions, but one mission can only have one
+category). **Done**
+- Ability to request the server to retrieve all missions belonging to a
+particular category. **Done**
+- Ability to request the server to retrieve all drones belonging to a particular
+category. **Done**
 
